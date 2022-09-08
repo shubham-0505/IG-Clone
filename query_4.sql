@@ -19,3 +19,4 @@ Output :
 | Zack_Kemmer93 | 145 | https://jarret.name |    48 |
 +---------------+-----+---------------------+-------+
 1 row in set (0.01 sec)
+

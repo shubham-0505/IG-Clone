@@ -38,3 +38,4 @@ Output :
 | Tierra.Trantow      | NULL      |
 +---------------------+-----------+
 26 rows in set (0.00 sec)
+

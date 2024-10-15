@@ -1,1 +1,1 @@
-A Simple  Instagram Database Clone with basic SQL Queries
+Instagram Database Clone with basic SQL Queries
